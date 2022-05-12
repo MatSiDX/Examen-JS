@@ -36,13 +36,14 @@
     width: 90%;
     height: 600px;
     border: solid rgb(183, 223, 4) 1px;    
-    text-align: center;
+    text-align: left;
     font-family: 'Signika Negative', sans-serif;
 }
 
 #nombre {
-    width: 50%;
+    width: 80%;
     height: 32px;
+    margin-left: 15px;
     border: solid rgb(129, 228, 172) 1px;
     text-align: center;
 }
