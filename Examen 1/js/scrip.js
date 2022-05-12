@@ -10,11 +10,11 @@ function test() {
     var tbody = document.getElementById("tbd");
     let sexo = "a";
     let nombre = document.getElementById('nombre').value;
-    if (document.getElementById('hombre').checked) {
-        sexo = "hombre";
+    if (document.getElementById('mujer').checked) {
+        sexo = "Famenino";
 
     } else {
-        sexo = "mujer";
+        sexo = "Masculino";
 
     }
     var ciclo = document.getElementById('ciclo').value;
